@@ -3,9 +3,12 @@
 
 ## "What's in this repository?"
 
-This is a template repository for creating online courses in higher education created for the DiLER (Digital Literacy for Empirical Research) project, financed by DigiTeLL (Goethe-University Frankfurt).
+This is a minimalistic template repository for creating online courses in higher education created for the DiLER (Digital Literacy for Empirical Research) project, financed by DigiTeLL (Goethe-University Frankfurt).
 
-Find more on how to utilizie this resource in the online course [Creating interactive content with Jupyter Books](https://diler-digitell.github.io/Jupyter-Book).
+We will use this template for creating a course website in the Workshop “Openness in the Higher Education Classroom “ in the group session on “Working collaborative with Jupyter Book: An open-source tool to create open and flexible teaching/learning materials” , June 2025.
+
+Find more on how to utilizie this resource in the resources on the session-website: https://luciebinder.github.io/ws-openness-2025/general-information/index.html
+or in the general online tutorial [Creating interactive content with Jupyter Books](https://diler-digitell.github.io/Jupyter-Book).
 
 Examples of how these courses could look:
 
@@ -15,7 +18,6 @@ Examples of how these courses could look:
   - [Cognitive & computational neuroscience: an introduction to machine/deep learning and neuro-data-science](https://peerherholz.github.io/Cog_Com_Neuro_ML_DL/)
   - [Python for Psychologists](https://peerherholz.github.io/Python_for_Psychologists_Winter2021)
   - [Course on Empirical Research in Neurocognitive Psychology](https://peerherholz.github.io/EXPRA_Winter2021)
-
 
 
 Credit goes to the original G0RELLA template lectures.
