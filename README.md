@@ -3,12 +3,12 @@
 
 ## "What's in this repository?"
 
-This is a minimalistic template repository for creating online courses in higher education created for the DiLER (Digital Literacy for Empirical Research) project, financed by DigiTeLL (Goethe-University Frankfurt).
+This is a minimalistic template repository for creating online courses in higher education created for the [DiLER](https://diler-digitell.github.io/examples.html) (Digital Literacy for Empirical Research) project, financed by [DigiTeLL](https://www.uni-frankfurt.de/106198465/Digital_Teaching_and_Learning_Lab___DigiTeLL) (Goethe-University Frankfurt).
 
-We will use this template for creating a course website in the Workshop “Openness in the Higher Education Classroom “ in the group session on “Working collaborative with Jupyter Book: An open-source tool to create open and flexible teaching/learning materials” , June 2025.
+We will use this template for creating a course website in the workshop "Openness in the Higher Education Classroom" in the group session on “Working collaborative with Jupyter Book: An open-source tool to create open and flexible teaching/learning materials”, June 2025.
 
-Find more on how to utilizie this resource in the resources on the session-website: https://luciebinder.github.io/ws-openness-2025/general-information/index.html
-or in the general online tutorial [Creating interactive content with Jupyter Books](https://diler-digitell.github.io/Jupyter-Book).
+Find more on how to utilizie this resource on the corresponding group session website: https://luciebinder.github.io/ws-openness-2025/general-information/index.html
+or in the more detailed online tutorial [Creating interactive content with Jupyter Books](https://diler-digitell.github.io/Jupyter-Book).
 
 Examples of how these courses could look:
 
