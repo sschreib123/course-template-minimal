@@ -1,5 +1,5 @@
-root: general_information/index
 format: jb-book
+root: general_information/index
 chapters:
 - file: general_information/overview
 - file: general_information/setup
