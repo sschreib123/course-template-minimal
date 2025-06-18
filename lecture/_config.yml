@@ -5,7 +5,7 @@
 
 #######################################################################################
 # Book settings
-title                       : "Course Template for ressources in higher education"  # The title of the book. Will be placed in the left navbar.
+title                       : "hello world"  # The title of the book. Will be placed in the left navbar.
 author                      : Michael Ernst, Felix Körber based on the Gorella template by Peer Herholz, José C. García Alanis, Christoph Vogelbacher  # The author of the book
 copyright                   : "2022"  # Copyright year to be placed in the footer
 logo                        : "static/logo.png"  # A path to the book logo
